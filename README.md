@@ -201,10 +201,4 @@ Dữ liệu mặc định được khởi tạo từ `database/script.sql`:
 | **Nhân viên (Staff)** | `staff01` | `123456` | Thẩm định vay & duyệt tiết kiệm |
 | **Khách hàng (Customer)**| `customer01` | `123456` | Trải nghiệm giao dịch & vay vốn |
 
----
 
-## 👨‍💻 Thông Tin Dự Án & Bản Quyền
-
-* **Repository gốc**: [Bernie-TruongTQ/Namcombank](https://github.com/Bernie-TruongTQ/Namcombank)
-* **Owner Repository**: [DoanVinhHung13/Namcombank](https://github.com/DoanVinhHung13)
-* Dự án phục vụ mục đích học tập, nghiên cứu và phát triển phần mềm ứng dụng tài chính ngân hàng số.
